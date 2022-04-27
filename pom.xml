@@ -19,6 +19,7 @@
         <module>lab-member</module>
         <module>lab-report</module>
         <module>lab-file</module>
+        <module>renren-fast</module>
     </modules>
 
 </project>

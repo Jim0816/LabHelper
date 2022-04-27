@@ -15,3 +15,8 @@ buildNumber.properties
 **/.mvn
 **/target/
 .idea
+**/*.iml
+
+
+./vue-code/renren-fast-vue/.idea
+./vue-code/renren-fast-vue/node_modules
